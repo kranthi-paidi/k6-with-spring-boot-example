@@ -1,0 +1,3 @@
+# SLA configuration for the test
+p95-latency: 30 # in milliseconds. 1000ms = 1s
+error-rate: 0.01 # 1% error rate
